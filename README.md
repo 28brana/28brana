@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @28brana
 - 👀 I’m interested in Webdevelopment
 - 🌱 I’m currently pursuing BTECH CSE 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 28brana@gmail.com
 
 <!---
