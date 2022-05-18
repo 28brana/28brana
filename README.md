@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **28brana@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/nBKNO](shorturl.at/nBKNO)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1DEEGEIFFT5o9KtelfFU0H1y2HGtBAPOE](https://drive.google.com/drive/folders/1DEEGEIFFT5o9KtelfFU0H1y2HGtBAPOE)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
