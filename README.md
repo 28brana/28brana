@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bharat Rana</h1>
 <h3 align="center">A passionate MERN Stack developer from India 😃</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=28brana" alt="28brana" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=28brana&label=Profile%20views&color=0e75b6&style=flat" alt="28brana" /> </p>
 
 - 📫 How to reach me **28brana@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vRD07I6jIT5aO73_2CJ8E_Q2efQ3g4Uz6YTHXMvhIiM3mw9HIb8J8d6gElfvdZwabO06ME-tjvU1s7F/pub](https://docs.google.com/document/d/e/2PACX-1vRD07I6jIT5aO73_2CJ8E_Q2efQ3g4Uz6YTHXMvhIiM3mw9HIb8J8d6gElfvdZwabO06ME-tjvU1s7F/pub)
+- 📄 Know about my experiences [shorturl.at/nBKNO](shorturl.at/nBKNO)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
