@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **28brana@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1DEEGEIFFT5o9KtelfFU0H1y2HGtBAPOE](https://drive.google.com/drive/folders/1DEEGEIFFT5o9KtelfFU0H1y2HGtBAPOE)
+- 📄 Know about my experiences [[https://drive.google.com/drive/folders/1DEEGEIFFT5o9KtelfFU0H1y2HGtBAPOE](https://drive.google.com/drive/folders/1DEEGEIFFT5o9KtelfFU0H1y2HGtBAPOE)](https://drive.google.com/file/d/1IkBuLibug63L9aKMx59NblJVgbtm_Y7J/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
