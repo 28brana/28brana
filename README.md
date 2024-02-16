@@ -17,7 +17,7 @@ I'm a software developer based in Amritsar, Punjab, with a passion for creating 
 
 **Database:** `MongoDB` `MySQL` `Redis`
 
-**Other Technologies:** `Kafka` `BullMQ`
+**Other Technologies:** `Kafka` `BullMQ` `Socket` `WebRTC`
 
 **Version Control:** `Git`
 
