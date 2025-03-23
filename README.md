@@ -15,7 +15,7 @@ I'm a software developer based in Amritsar, Punjab, with a passion for creating 
 
 **Backend:** `Node.js` `Express.js` `TypeScript`
 
-**Database:** `MongoDB` `MySQL` `Redis`
+**Database:** `MongoDB` `MySQL` `Redis` `Elasticsearch`
 
 **Other Technologies:** `Kafka` `BullMQ` `Socket` `WebRTC`
 
